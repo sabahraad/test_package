@@ -1,0 +1,14 @@
+{
+    "name": "raad/inspire",
+    "description": "it is final test if it's does not i will not make any package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Raad\\Inspire\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
